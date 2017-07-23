@@ -1,0 +1,9 @@
+buildscript {
+  ext {
+    junitVersion = "4.12"
+  }
+
+  repositories {
+    mavenCentral()
+  }
+}

@@ -1,0 +1,3 @@
+rootProject.name = 'codekatas-java'
+
+include "katas:02-karate-chop"

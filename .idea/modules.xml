@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/codekata-java.iml" filepath="$PROJECT_DIR$/.idea/codekata-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/katas/02-karate-chop/02-karate-chop.iml" filepath="$PROJECT_DIR$/.idea/modules/katas/02-karate-chop/02-karate-chop.iml" group="katas/02-karate-chop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/katas/02-karate-chop/02-karate-chop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/katas/02-karate-chop/02-karate-chop_main.iml" group="katas/02-karate-chop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/katas/02-karate-chop/02-karate-chop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/katas/02-karate-chop/02-karate-chop_test.iml" group="katas/02-karate-chop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/katas/codekata-java-katas.iml" filepath="$PROJECT_DIR$/.idea/modules/katas/codekata-java-katas.iml" group="katas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codekatas-java.iml" filepath="$PROJECT_DIR$/.idea/modules/codekatas-java.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="02-karate-chop_main" target="1.8" />
+      <module name="02-karate-chop_test" target="1.8" />
+      <module name="codekatas-java_main" target="1.8" />
+      <module name="codekatas-java_test" target="1.8" />
+      <module name="katas_main" target="1.8" />
+      <module name="katas_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
